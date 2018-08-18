@@ -1,0 +1,2 @@
+# python_connect_sql
+python连接mysql并做增删改查等操作
